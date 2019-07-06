@@ -1,4 +1,9 @@
 # WHITEPAPER
+
+![alt text](http://url/to/yeahre.png)
+
+
+
 DOCUMENTS, WHITE PAPER
 Yeahreum:
 Peer-to-Peer Electronic Cash System

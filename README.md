@@ -1,6 +1,6 @@
 # WHITEPAPER
 
-![alt text](http://url/to/front end.pdf)
+Go To http://www.yeahreum.com/yeahreum.pdf
 
 
 
